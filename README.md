@@ -1,3 +1,4 @@
+![banner1](https://user-images.githubusercontent.com/80037095/157463773-28f8ca78-fe0e-4dd1-b55f-a7b7a05e0333.png)
 <h1 align="center">Hi 👋, I'm Rahul Chaudhary</h1>
 <h3 align="center">A passionate to learn & improve coding skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
