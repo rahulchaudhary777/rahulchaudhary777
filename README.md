@@ -26,3 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulchaudhary777&" alt="rahulchaudhary777" /></p>
 
+## snake eating my contribution graph
+![snake gif](https://github.com/rahulchaudhary777/rahulchaudhary777/blob/output/github-contribution-grid-snake.gif)
