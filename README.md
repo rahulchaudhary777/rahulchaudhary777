@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studying on **Gla University, Mathura**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Web Devlopment**
 
 - 📫 How to reach me **ch.rahuljaat777@gmail.com**
 
