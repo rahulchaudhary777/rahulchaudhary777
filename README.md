@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently Studying on **Gla University, Mathura**
+- 🔭 I’m currently working as an Engineer in **Spice Money**
 
-- 🌱 I’m currently learning **Web Devlopment**
+- 🌱 I’m currently learning & working on **Springboot**
 
 - 📫 How to reach me **ch.rahuljaat777@gmail.com**
 
